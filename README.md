@@ -34,5 +34,6 @@ It contains small projects, analyses, and visual experiments as I explore differ
 - `creative/` – sketches and visual experiments
 
 ## Status
+Currently working in an international iGEM team.
 Ongoing learning and projects. Updated regularly with experiments and research.  
 Looking forward to work and participate in different projects! ⎚-⎚
